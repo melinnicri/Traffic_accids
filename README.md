@@ -70,5 +70,6 @@ Panel published in: "Accidentes" file.
 
 
 
-<p align="center"><img src="https://github.com/melinnicri/Traffic_accids/blob/main/images/print01.jpg"></p>
+<p align="center"><img src="https://github.com/melinnicri/Traffic_accids/blob/main/images/print01.png"></p>
+
 ## ..._@v
