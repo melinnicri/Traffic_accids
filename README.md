@@ -32,7 +32,7 @@ With data on the number of victims per commune, the communes with the most accid
 - COMMUNE 7: Flores and Chacabuco Park.
 - COMMUNE 8: Villa Soldati, Villa Riachuelo and Villa Lugano.
 - COMMUNE 9: Liniers, Mataderos and Parque Avellaneda.
--COMMUNE 10: Villa Real, Monte Castro, Versalles, Floresta, Vélez Sarsfield and Villa Luro.
+- COMMUNE 10: Villa Real, Monte Castro, Versalles, Floresta, Vélez Sarsfield and Villa Luro.
 - COMMUNE 11: Villa General Miter, Villa Devoto, Villa del Parque and Villa Santa Rita.
 - COMMUNE 12: Coghlan, Saavedra, Villa Urquiza and Villa Pueyrredón.
 - COMMUNE 13: Núñez, Belgrano and Colegiales.
